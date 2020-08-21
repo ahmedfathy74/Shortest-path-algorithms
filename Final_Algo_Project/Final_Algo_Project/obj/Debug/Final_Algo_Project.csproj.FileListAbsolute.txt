@@ -1,0 +1,15 @@
+C:\Users\a\Desktop\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.exe.config
+C:\Users\a\Desktop\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.exe
+C:\Users\a\Desktop\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.pdb
+C:\Users\a\Desktop\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.exe
+C:\Users\a\Desktop\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.pdb
+C:\Users\a\Desktop\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.csprojResolveAssemblyReference.cache
+E:\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.exe.config
+E:\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.exe
+E:\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.pdb
+E:\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.exe
+E:\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.pdb
+E:\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.csprojResolveAssemblyReference.cache
+D:\partation1\old matriales\matrials in 3rd in collage\third year(first term)\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\bin\Debug\Final_Algo_Project.exe.config
+D:\partation1\old matriales\matrials in 3rd in collage\third year(first term)\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.exe
+D:\partation1\old matriales\matrials in 3rd in collage\third year(first term)\matrials sana talta\7agat brdo l sana deyyy\Final_Algo_Project\Final_Algo_Project\obj\Debug\Final_Algo_Project.pdb
